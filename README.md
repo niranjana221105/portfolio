@@ -11,6 +11,8 @@ Projects showcase section
 Skills and technologies overview
 About me section
 Contact information
+
+
 🛠️ Tech Stack
 HTML
 CSS
