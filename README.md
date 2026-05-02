@@ -7,13 +7,20 @@ The website is designed with a clean, responsive UI to ensure a smooth experienc
 
 🚀 Features
 Responsive design (mobile + desktop friendly)
+
 Projects showcase section
+
 Skills and technologies overview
+
 About me section
+
 Contact information
 
 
 🛠️ Tech Stack
+
 HTML
+
 CSS
+
 JavaScript
